@@ -10,7 +10,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import json
 
 load_dotenv()
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = "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"
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = "YOUR API KEY"
 
 class CustomDocument:
     def __init__(self, page_content, metadata=None):
