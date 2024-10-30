@@ -3,7 +3,7 @@ WORKDIR /chatbot
 COPY . /chatbot
 RUN pip install -r requirements.txt
 EXPOSE 3000
-ENV HUGGINGFACEHUB_API_TOKEN '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'
+ENV HUGGINGFACEHUB_API_TOKEN 
 CMD python ./app.py
 
 
