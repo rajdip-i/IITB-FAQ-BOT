@@ -47,14 +47,21 @@ This repository contains the IITB FAQ Bot project, designed to assist users in r
 
 ### Steps
 1. Clone the repository:
-       git clone https://github.com/rajdip-i/IITB-FAQ-BOT.git
-       cd IITB-FAQ-BOT
+       - git clone https://github.com/rajdip-i/IITB-FAQ-BOT.git
+       - cd IITB-FAQ-BOT
 2. Install dependencies:
-      pip install -r requirements.txt
+      - pip install -r requirements.txt
 
 3. Add your HuggingFace API key in the .env file:
-       HUGGINGFACEHUB_API_TOKEN=YOUR_API_KEY
+       - HUGGINGFACEHUB_API_TOKEN=YOUR_API_KEY
 
 4. Run the Flask app:
-       python app.py
+       - python app.py
+
+---
+## Methodology
+
+![Demo Screenshot](static/1.png "Demo of the FAQ Bot")
+![Demo Screenshot](static/2.png "Demo of the FAQ Bot")
+![Demo Screenshot](static/3.png "Demo of the FAQ Bot")
 
