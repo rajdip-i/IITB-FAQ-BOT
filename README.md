@@ -59,7 +59,7 @@ This repository contains the IITB FAQ Bot project, designed to assist users in r
        - python app.py
 
 ---
-## Methodology
+## Demo Screenshots
 
 ![Demo Screenshot](static/1.png "Demo of the FAQ Bot")
 ![Demo Screenshot](static/2.png "Demo of the FAQ Bot")
