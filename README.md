@@ -1,6 +1,6 @@
 # IITB FAQ Bot
 
-This repository contains the IITB FAQ Bot project, designed to assist users in retrieving precise and concise answers from a preprocessed dataset of FAQs using a robust AI-powered backend.
+This repository contains the IITB FAQ Bot project, designed to assist IIT Bombay students in retrieving precise and concise answers from a preprocessed IITB institute dataset using a robust AI-powered backend.
 
 ---
 ## Demo Screenshots
