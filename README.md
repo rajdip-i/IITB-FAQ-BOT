@@ -3,7 +3,12 @@
 This repository contains the IITB FAQ Bot project, designed to assist users in retrieving precise and concise answers from a preprocessed dataset of FAQs using a robust AI-powered backend.
 
 ---
+## Demo Screenshots
 
+![Demo Screenshot](static/1.png "Demo of the FAQ Bot")
+![Demo Screenshot](static/2.png "Demo of the FAQ Bot")
+![Demo Screenshot](static/3.png "Demo of the FAQ Bot")
+---
 ## Features
 - **AI-Powered Response System**: Employs LangChain, HuggingFace models, and FAISS for efficient retrieval and accurate question answering.
 - **Interactive Web Interface**: Built using Flask, allowing users to interact with the bot seamlessly.
@@ -59,9 +64,4 @@ This repository contains the IITB FAQ Bot project, designed to assist users in r
    - python app.py
 
 ---
-## Demo Screenshots
-
-![Demo Screenshot](static/1.png "Demo of the FAQ Bot")
-![Demo Screenshot](static/2.png "Demo of the FAQ Bot")
-![Demo Screenshot](static/3.png "Demo of the FAQ Bot")
 
