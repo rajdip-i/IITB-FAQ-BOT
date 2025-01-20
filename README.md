@@ -4,7 +4,7 @@ This repository contains the IITB FAQ Bot project, designed to assist IIT Bombay
 
 ---
 ## Demo Screenshots
-
+ 
 ![Demo Screenshot](static/1.png "Demo of the FAQ Bot")
 ![Demo Screenshot](static/2.png "Demo of the FAQ Bot")
 ![Demo Screenshot](static/3.png "Demo of the FAQ Bot")
