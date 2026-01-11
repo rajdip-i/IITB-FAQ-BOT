@@ -64,7 +64,7 @@ def response(user_query):
         model_kwargs={"temperature": 0.1, "max_length": 500}
     )
 
-    template = """Use the following pieces of context to answer the question at the end.
+    template = """Please use the following pieces of context to answer the question at the end.
     Say that you don't know when asked a question you don't know, do not make up an answer. Be precise and concise in your answer.
 
     {context}
